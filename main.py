@@ -1,4 +1,3 @@
-Print
 import os
 
 mi_ubicacion = os.getcwd()
