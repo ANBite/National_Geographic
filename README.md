@@ -5,5 +5,6 @@
  
 ![This is a image](https://static.nationalgeographicla.com/files/styles/image_3200/public/mm9279_ctf018-12203.jpg)
 
-![This is a image](https://static.nationalgeographicla.com/files/styles/image_3200/public/ngsf000003_190803_100592.jpg? w=710&h=475)
+![This is a image](https://static.nationalgeographicla.com/files/styles/image_3200/public/ngsf000003_190803_100592.jpg)
+
 * text= Página principal: https://www.nationalgeographicla.com/
